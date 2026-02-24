@@ -1,8 +1,7 @@
-# ID3a2024 — Plan Zajęć UBB
+# Plan Zajęć UBB
 
 Aplikacja webowa wyświetlająca plan zajęć Uniwersytetu Bielsko-Bialskiego, aktualizowana automatycznie przez background workera. Użytkownik może przeglądać plany zajęć w czytelny, responsywny sposób oraz dodawać je do ulubionych.
 
-![Diagram aplikacji](images/diagram.png)
 
 ---
 
